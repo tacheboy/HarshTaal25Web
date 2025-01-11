@@ -1,5 +1,5 @@
 {
-  "name": "parsec2025",
+  "name": "parsec2024",
   "private": false,
   "version": "0.0.0",
   "type": "module",
@@ -15,9 +15,6 @@
     "@react-three/postprocessing": "^2.15.0",
     "@studio-freight/lenis": "^1.0.29",
     "@types/three": "^0.157.0",
-    "axios": "^1.7.9",
-
-
     "gsap": "^3.12.2",
     "next": "^14.0.3",
     "papaparse": "^5.4.1",
@@ -26,8 +23,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.12.0",
     "react-router-dom": "^6.15.0",
-    "three": "^0.157.0",
-    "cors": "^2.8.5"
+    "three": "^0.157.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
